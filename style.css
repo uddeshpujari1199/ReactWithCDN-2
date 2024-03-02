@@ -1,0 +1,25 @@
+#root{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.main-div{
+    border: 2px solid white;
+    width: 40%;
+    background-color: white;
+    padding: 0 50px;
+    font-family: 'inter',sans-serif;
+    font-weight: 400;
+    color: RGB(27, 27, 27);
+    font-size: 16px;
+}
+.main-div a{
+    color: RGB(0, 105, 194);
+}
+.para{
+    margin-left: 20px;
+}
